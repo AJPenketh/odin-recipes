@@ -1,0 +1,23 @@
+
+
+
+body    {
+    background: linear-gradient(#DCDCDC, #C0C0C0)
+}
+
+.Header{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.images{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+
+
+}
